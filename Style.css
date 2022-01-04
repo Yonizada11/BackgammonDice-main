@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(95, 4, 4, 0.301);
+}
+
+#h1container {
+    display: flex;
+    justify-content: center;
+}
+
+.allRoot {
+    display: flex;
+    justify-content: center;
+}
+
+#root {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(163, 88, 88);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+
+}
+
+#rootTwo {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(94, 25, 25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    margin-left: 250px;
+}
+
+#btnCenter {
+    display: flex;
+    justify-content: center;
+}
+
+#btn {
+
+    font-size: 30px;
+    background-color: grey;
+    color: #000;
+
+
+}
